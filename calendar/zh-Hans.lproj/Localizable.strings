@@ -1,0 +1,13 @@
+/*
+  zh-cn.strings
+  calendar
+
+  Created by 杨子越 on 2020/3/26.
+  Copyright © 2020 Rabbit. All rights reserved.
+*/
+
+"prev" = "上一个强者";
+"next" = "下一个强者";
+"description_hzy" = "最强者";
+"description_zcy" = "前端最强者";
+"description_hezeyu" = "这才是真正的hzy";

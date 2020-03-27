@@ -1,0 +1,13 @@
+/*
+  jp-jp.strings
+  calendar
+
+  Created by 杨子越 on 2020/3/26.
+  Copyright © 2020 Rabbit. All rights reserved.
+*/
+
+"prev" = "前のページ";
+"next" = "次のページ";
+"description_hzy" = "最強の人";
+"description_zcy" = "フロントエンド開発の方向性で最強の人物";
+"description_hezeyu" = "これが本当のhzyです";

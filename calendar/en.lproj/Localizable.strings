@@ -1,0 +1,13 @@
+/*
+  zh-cn.strings
+  calendar
+
+  Created by 杨子越 on 2020/3/26.
+  Copyright © 2020 Rabbit. All rights reserved.
+*/
+
+"prev" = "Previous";
+"next" = "Next";
+"description_hzy" = "the most powerful man";
+"description_zcy" = "the most powerful man in frontend";
+"description_hezeyu" = "this is the real hzy";
